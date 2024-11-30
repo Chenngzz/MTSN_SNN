@@ -52,5 +52,16 @@ frequencies and spatial scale. Specifically, the LL subband contains the low-fre
 Run model_train_test.py &  MTSA-SNN_dataloader.py
 
 
-
+## Citation
+```
+@misc{liu2024mtsasnnmultimodaltimeseries,
+      title={MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network}, 
+      author={Chengzhi Liu and Zheng Tao and Zihong Luo and Chenghao Liu},
+      year={2024},
+      eprint={2402.05423},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2402.05423}, 
+}
+```
 
